@@ -80,7 +80,7 @@ export const ProjectGrid = () => {
       imgUrl: "/dd.png",
       isDeployed: true,
       link: "https://diet-detective-ai-bot.onrender.com",
-      github: "https://github.com/SammSwift/Diet-Detective-AI-Bot",
+      github: "https://github.com/SamyySwift/AI-Diet-Detector",
     },
     {
       title: "Plant Disease Detection",
@@ -89,7 +89,7 @@ export const ProjectGrid = () => {
       imgUrl: "/plant-detector.png",
       isDeployed: false,
       link: "",
-      github: "https://github.com/SammSwift/Plant-Disease-Detector",
+      github: "https://github.com/SamyySwift/Plant-disease-detection",
     },
     {
       title: "Swift Store",
@@ -98,7 +98,7 @@ export const ProjectGrid = () => {
       imgUrl: "/ecommerce.png",
       isDeployed: true,
       link: "https://swiftstore.onrender.com/",
-      github: "https://github.com/SammSwift/SwiftStore/tree/main",
+      github: "https://github.com/SamyySwift/SwiftStore/tree/main",
     },
 
     {
@@ -108,7 +108,7 @@ export const ProjectGrid = () => {
       imgUrl: "/Driver-Drowsiness-Detection.jpg",
       isDeployed: true,
       link: "https://youtube.com/shorts/mksNEUcQsuA?si=-EPDAi_234K3OrFC",
-      github: "https://github.com/SammSwift/Driver-Drowsiness-Detector",
+      github: "https://github.com/SamyySwift/Driver-Drowsiness-Detector",
     },
     {
       title: "Patient Mortality Predictor",
@@ -117,8 +117,7 @@ export const ProjectGrid = () => {
       imgUrl: "/mortality.webp",
       link: "",
       isDeployed: false,
-      github:
-        "https://github.com/SammSwift/Patient-Mortality-Detection-Using-DeepLearning",
+      github: "https://github.com/SamyySwift/Patient-Mortality-Predictor",
     },
     {
       title: "Movie Recommendation App",
@@ -127,7 +126,7 @@ export const ProjectGrid = () => {
       imgUrl: "/movie-rec.jpg",
       isDeployed: false,
       link: "",
-      github: "https://github.com/SammSwift/Movie-Recommender-System",
+      github: "https://github.com/SamyySwift/Movie-Recommendation-Webapp",
     },
   ];
   return (

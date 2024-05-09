@@ -13,7 +13,7 @@ const Sidebar = () => {
           <FaLinkedin size={24} />
         </a>
         <a
-          href="https://github.com/SammSwift"
+          href="https://github.com/SamyySwift"
           className="text-white hover:text-sky-500 mt-4"
         >
           <FaGithub size={24} />
